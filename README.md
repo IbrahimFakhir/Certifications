@@ -2,7 +2,7 @@
 
 Welcome to my certifications archive :card_file_box:. You see my certification badges, verified by [Credly](https://info.credly.com/).
 
-To view the full certification, you can click the badge.
+To view the full certification, please click the badge.
 
 #
 
